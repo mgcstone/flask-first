@@ -6,7 +6,7 @@ auth = HTTPBasicAuth()
 
 # Моковые данные пользователя
 users = {
-    "admin": "password123"  # Логин: admin, Пароль: password123
+    "admin": "avangard"  # Логин: admin, Пароль: password123
 }
 
 # Проверка пользователя и пароля
